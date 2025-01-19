@@ -1,8 +1,0 @@
-﻿{
-  "solution": {
-    "path": "ConsoleApp1\\ConsoleApp1.sln",
-    "projects": [
-      "ISCAT-Homework\\ISCAT-Homework.csproj"
-    ]
-  }
-}
